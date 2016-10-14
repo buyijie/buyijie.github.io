@@ -12,7 +12,8 @@ what makes an cloud-native app
 
 make application stateless
 
-alternatives to CloudFoundry
+alternatives to CloudFoundry:
+
 * Heroku
 * Azure
 * Docker Swarm
@@ -20,6 +21,7 @@ alternatives to CloudFoundry
 * Kubernetes
 
 CloudFoundry Component
+
 * Bosh
 * CAPI (Cloud API)
 * kernel
@@ -32,19 +34,23 @@ CloudFoundry Component
 * UAA (user and account management)
 
 About Bluemix (IBM's Productization of CloudFoundry) 
+
 * Dashboard
 * service catelog
 * containers or virtual machines
 
 references:
+
 * docs.cloudfoundry.org
 * bluemix.net/docs
 * cloudfoundry.slack.com (community slack channels) 
 
 sample codes:
+
 * watson-developer-cloud
 
 useful commands:
+
 * cf push appname
 * cf set-env
 * cf services
